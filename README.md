@@ -18,14 +18,14 @@
 ## What I'm Building
 
 - 🤖 **[Peaktify](https://peaktify.ai)** – AI-powered implementation squad that helps delivery teams build faster, scale with confidence, and ship consistent results from discovery to go-live
-- 🔗 **[Linkstream](https://linkstream.io)** – Smart link intelligence platform — turn links into intelligent decision points with dynamic routing, tracking, and analytics
 
 ## Products I've Built
 
+- 🌸 **[Bloomify](https://bloomify.team)** – Team performance and growth platform
+- 🔗 **[Linkstream](https://linkstream.io)** – Smart link intelligence platform — turn links into intelligent decision points with dynamic routing, tracking, and analytics
 - 🔬 **[QbDVision](https://qbdvision.com)** – Digital CMC platform for pharma & biotech — accelerating drug development through process intelligence
 - 👁️ **[HaramBlur](https://haramblur.com)** – AI-powered browser extension that detects and blurs inappropriate content in real-time (60K+ active users, 4.9★ from 700+ reviews)
 - 🔇 **[HaramMute](https://harammute.com)** – Browser extension that removes background music from YouTube videos while preserving dialogue
-- 🌸 **[Bloomify](https://bloomify.team)** – Team performance and growth platform
 - 🎓 **[Almdrasa](https://almdrasa.com)** – One of the largest Arabic educational platforms for software engineering
 - 🗣️ **[Lsaan](https://lsaan.net)** – "Learn Arabic in Just One Year" — structured Arabic language learning program
 
