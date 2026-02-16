@@ -51,7 +51,7 @@
 
 ## Connect
 
-[![Twitter](https://img.shields.io/badge/-@afaborty-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/afaborty)
+[![Twitter](https://img.shields.io/badge/-@afaborty-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/afathykhalid)
 [![LinkedIn](https://img.shields.io/badge/-Ahmed_Fathy_Khalid-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedfathykhalid/)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/afkhalid)
 
@@ -60,7 +60,8 @@
 ### Recognition
 
 - 227K+ LinkedIn followers
-- 60K+ users on HaramBlur across Chrome, Firefox, Safari & Android
+- 240K+ Facebook followers
+- 350K+ users on HaramBlur across Chrome, Firefox, Safari & Android
 - Published researcher — EEG analysis for attention state assessment
 - Former instructor at Cairo University — C++, Data Structures, Linux
 - Cairo University, Faculty of Engineering (2005–2010)
