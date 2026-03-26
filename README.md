@@ -28,6 +28,12 @@
 - 🔇 **[HaramMute](https://harammute.com)** – Browser extension that removes background music from YouTube videos while preserving dialogue
 - 🎓 **[Almdrasa](https://almdrasa.com)** – One of the largest Arabic educational platforms for software engineering
 - 🗣️ **[Lsaan](https://lsaan.net)** – "Learn Arabic in Just One Year" — structured Arabic language learning program
+- 👻 **[GhostFill](https://ghostfill.app)** – Browser extension that auto-fills forms with realistic, domain-specific test data instead of "test123"
+- 🕌 **[Pray On Time](https://prayontime.today)** – Syncs accurate prayer times to Google Calendar, Apple Calendar, or any calendar app — free and ad-free
+- 🤲 **[Nawaya](https://nawaya.life)** – App that helps Muslims set intentions (niyyah) for daily acts of worship, habits, and transactions
+- 🛠️ **[Muslim Daily Tools](https://muslimdailytools.com)** – Lightweight browser extensions and micro-apps to weave Quran and worship into everyday life
+- 📖 **[Quran Tab](https://chromewebstore.google.com/detail/quran-tab/afaihcdgkjebgabomemccdneglknjkdd)** – New tab extension that greets you with a Quran ayah, prayer times, and translations in 40+ languages
+- 🎙️ **[Quran Station](https://quran-station.com)** – Stream Quran recitations from 200+ reciters and 100+ radio stations across web, Chrome, and mobile
 
 ## GitHub Activity
 
